@@ -1,4 +1,4 @@
-# **AutoDidact: Bootstrapping Search Through Self-Verification**
+# **SearchRL: Bootstrapping Search Through Self-Verification**
 
 **Research exploring how small LLMs can autonomously enhance their own research and reasoning capabilities by generating, researching, and answering self-created question-answer pairs, learning agentic search via reinforcement learning. All running on a single RTX 4090!**
 
